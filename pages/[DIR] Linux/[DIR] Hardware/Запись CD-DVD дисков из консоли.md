@@ -1,0 +1,1 @@
+/home/serg/repo/wiki/pages/[DIR] Linux/[DIR] FileSystems/Запись CD-DVD дисков из консоли.md
