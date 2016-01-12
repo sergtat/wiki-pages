@@ -155,3 +155,33 @@ $$I = \int \rho R^{2} dV$$
 
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
+
+1. Item 1
+  1. A corollary to the above item.
+  2. Yet another point to consider.
+		1. ;k;k
+		2. k;lk;
+			1. khkhkj
+			2. hkjhhk
+				1. hjkhkjhk
+				2. jkhkjhk
+					1. hjkhk
+					2. klhkjjh
+2. Item 2
+  * A corollary that does not need to be ordered.
+    * This is indented four spaces, because it's two spaces further than the item above.
+    * You might want to consider making a new list.
+3. Item 3
+
+- khkjhk
+- sdfsf
+	- sdfsdf
+	- sdf
+		- sdfsd
+		- dfg
+			- sdfsfd
+			- sdfd
+				- sfsd
+				- sdf
+					- sdfds
+					- asda
