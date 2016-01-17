@@ -1,0 +1,180 @@
+Autocommands
+============
+
+Now we're going to look at a topic almost as important as mappings:
+autocommands.
+
+Autocommands are a way to tell Vim to run certain commands whenever certain
+events happen.  Let's dive right into an example.
+
+Open a new file with `:edit foo` and close it right away with `:quit`.  Look on
+your hard drive and you'll notice that the file is not there.  This is because
+Vim doesn't actually *create* the file until you save it for the first time.
+
+Let's change it so that Vim creates files as soon as you edit them.  Run the
+following command:
+
+    :::vim
+    :autocmd BufNewFile * :write
+
+This is a lot to take in, but try it out and see that it works.  Run `:edit foo`
+again, close it with `:quit`, and look at your hard drive.  This time the file
+will be there (and empty, of course).
+
+You'll have to close Vim to remove the autocommand.  We'll talk about how to
+avoid this in a later chapter.
+
+Autocommand Structure
+---------------------
+
+Let's take a closer look at the autocommand we just created:
+
+    :::text
+    :autocmd BufNewFile * :write
+             ^          ^ ^
+             |          | |
+             |          | The command to run.
+             |          |
+             |          A "pattern" to filter the event.
+             |
+             The "event" to watch for.
+
+The first piece of the command is the type of event we want to watch for.  Vim
+offers *many* events to watch.  Some of them include:
+
+* Starting to edit a file that doesn't already exist.
+* Reading a file, whether it exists or not.
+* Switching a buffer's `filetype` setting.
+* Not pressing a key on your keyboard for a certain amount of time.
+* Entering insert mode.
+* Exiting insert mode.
+
+This is just a tiny sample of the available events.  There are many more you can
+use to do lots of interesting things.
+
+The next part of the command is a "pattern" that lets you be more specific about
+when you want the command to fire.  Start up a new Vim instance and run the
+following command:
+
+    :::vim
+    :autocmd BufNewFile *.txt :write
+
+This is almost the same as the last command, but this time it will only apply to
+files whose names end in `.txt`.
+
+Try it out by running `:edit bar`, then `:quit`, then `:edit bar.txt`, then
+`:quit`.  You'll see that Vim writes the `bar.txt` automatically, but *doesn't*
+write `bar` because it doesn't match the pattern.
+
+The final part of the command is the command we want to run when the event
+fires.  This is pretty self-explanatory, except for one catch: you can't use
+special characters like `<cr>` in the command.  We'll talk about how to get
+around this limitation later in the book, but for now you'll just have to live
+with it.
+
+Another Example
+---------------
+
+Let's define another autocommand, this time using a different event.  Run the
+following command:
+
+    :::vim
+    :autocmd BufWritePre *.html :normal gg=G
+
+We're getting a bit ahead of ourselves here because we're going to talk about
+`normal` later in the book, but for now you'll need to bear with me because it's
+tough to come up with useful examples at this point.
+
+Create a new file called `foo.html`.  Edit it with Vim and enter the following
+text *exactly*, including the whitespace:
+
+    :::html
+    <html>
+    <body>
+     <p>Hello!</p>
+                     </body>
+                      </html>
+
+Now save this file with `:w`.  What happened?  Vim seems to have reindented the
+file for us before saving it!
+
+For now I want you to trust me that running `:normal gg=G` will tell Vim to
+reindent the current file.  Don't worry about how that works just yet.
+
+What we *do* want to pay attention to is the autocommand.  The event type is
+`BufWritePre`, which means the event will be checked just before you write *any*
+file.
+
+We used a pattern of `*.html` to ensure that this command will only fire when
+we're working on files that end in `.html`.  This lets us target our
+autocommands at specific files, which is a very powerful idea that we'll
+continue to explore later on.
+
+Multiple Events
+---------------
+
+You can create a single autocommand bound to *multiple* events by separating the
+events with a comma.  Run this command:
+
+    :::vim
+    :autocmd BufWritePre,BufRead *.html :normal gg=G
+
+This is almost like our last command, except it will also reindent the code
+whenever we *read* an HTML file as well as when we write it.  This could be
+useful if you have coworkers that don't indent their HTML nicely.
+
+A common idiom in Vim scripting is to pair the `BufRead` and `BufNewFile` events
+together to run a command whenever you open a certain kind of file, regardless
+of whether it happens to exist already or not.  Run the following command:
+
+    :::vim
+    :autocmd BufNewFile,BufRead *.html setlocal nowrap
+
+This will turn line wrapping off whenever you're working on an HTML file.
+
+FileType Events
+---------------
+
+One of the most useful events is the `FileType` event.  This event is fired
+whenever Vim sets a buffer's `filetype`.
+
+Let's set up a few useful mappings for a variety of file types.  Run the
+following commands:
+
+    :::vim
+    :autocmd FileType javascript nnoremap <buffer> <localleader>c I//<esc>
+    :autocmd FileType python     nnoremap <buffer> <localleader>c I#<esc>
+
+Open a Javascript file (a file that ends in `.js`), pick a line and type
+`<localleader>c`.  This will comment out the line.
+
+Now open a Python file (a file that ends in `.py`), pick a line and type
+`<localleader>c`.  This will comment out the line, but it will use Python's
+comment character!
+
+Using autocommands alongside the buffer-local mappings we learned about in the
+last chapter we can create mappings that are specific to the type of file that
+we're editing.
+
+This reduces the load on our minds when we're coding.  Instead of having to
+think about moving to the beginning of the line and adding a comment character
+we can simply think "comment this line".
+
+Exercises
+---------
+
+Skim `:help autocmd-events` to see a list of all the events you can bind
+autocommands to.  You don't need to memorize each one right now.  Just try to
+get a feel for the kinds of things you can do.
+
+Create a few `FileType` autocommands that use `setlocal` to set options for your
+favorite filetypes just the way you like them.  Some options you might like to
+change on a per-filetype basis are `wrap`, `list`, `spell`, and `number`.
+
+Create a few more "comment this line" autocommands for filetypes you work with
+often.
+
+Add all of these autocommands to your `~/.vimrc` file.  Use your shortcut
+mappings for editing and sourcing it quickly, of course!
+
+
