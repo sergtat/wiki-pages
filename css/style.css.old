@@ -1,5 +1,0 @@
-body{background-color:gray;font-size:100%;}
-#content{max-width:920px;margin:auto;padding:2em 1em;background-color:lightgray;}
-.markdown-body{box-shadow: 0 0 10px;}
-.name{display:none;}
-
