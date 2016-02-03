@@ -1,1 +1,0 @@
-/home/serg/repo/wiki/pages/[DIR] Linux/[DIR] FileSystems/Восстановление SD-карты.md
