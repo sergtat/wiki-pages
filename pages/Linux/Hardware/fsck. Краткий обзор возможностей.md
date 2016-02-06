@@ -1,1 +1,0 @@
-/home/serg/repo/sites/wiki/pages/Linux/FileSystems/fsck. Краткий обзор возможностей.md

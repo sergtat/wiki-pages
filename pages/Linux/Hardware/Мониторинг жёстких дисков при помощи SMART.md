@@ -1,1 +1,0 @@
-/home/serg/repo/sites/wiki/pages/Linux/FileSystems/Мониторинг жёстких дисков при помощи SMART.md

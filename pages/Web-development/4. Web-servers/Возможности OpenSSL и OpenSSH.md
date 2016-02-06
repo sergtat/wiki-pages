@@ -1,1 +1,0 @@
-/home/serg/repo/sites/wiki/pages/Linux/Net/Возможности OpenSSL и OpenSSH.md
