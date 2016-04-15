@@ -1,3 +1,17 @@
+# Math example.
+
+The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
+
+$$
+\frac{\sqrt {ab}}{c}
+$$
+
+[Example](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
+
 An h1 header
 ============
 
