@@ -90,4 +90,6 @@ $$
 \end{align*}
 $$
 
+<img src="http://chart.apis.google.com/chart?cht=tx&chs=1x0&chf=bg,s,FFFFFF00&chco=000000&chs=40&chl=\sqrt{x}">
+
 <img src="http://www.codecogs.com/eq.latex?\underbrace{a+\overbrace{b+\cdots+y}^{24}+z}_{26})"/>
