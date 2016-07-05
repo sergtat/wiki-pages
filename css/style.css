@@ -269,6 +269,3 @@ body, #content,.markdown-body {
 	padding-right: 5em;
 	font-size: medium;
 }
-h1 { page-break-before: always;  }
-/* .name{display:none;} */
-}
