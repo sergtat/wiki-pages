@@ -269,3 +269,23 @@ body, #content,.markdown-body {
 	padding-right: 5em;
 	font-size: medium;
 }
+
+#nav2, #nav2 li {
+  margin: 0;
+  padding: 0;
+}
+#nav2 {
+  background: rgb(46,95,122); /* цвет фона */
+}
+#nav2 li {
+  display: inline-block;
+  text-align: center; /* текст горизонтально по центру */
+}
+#nav2 a {
+  display: block; /* ссылка растягивается на весь пункт li */
+  padding: 3px 15px;
+  color: #fff; /* цвет текста */
+  text-decoration: none; /* убрать нижнее подчёркивание у ссылок */
+}
+#nav2 a:hover {
+  background: rgb(96,145,172); /* фон пунктов при наведении */
