@@ -1,19 +1,44 @@
 /* 
    Some simple Github-like styles, with syntax highlighting CSS via Pygments.
 */
+/* @font-face { */
+/* 	font-family: Lora; */
+/* 	src: url( /fonts/Lora-Bold.ttf); */
+/* 	font-weight: bold; */
+/* } */
+/* @font-face { */
+/* 	font-family: Lora; */
+/* 	src: url( /fonts/Lora-Italic.ttf); */
+/* 	font-style: italic; */
+/* } */
+/* @font-face { */
+/* 	font-family: Lora; */
+/* 	src: url( /fonts/Lora-BoldItalic.ttf); */
+/* 	font-weight: bold; */
+/* 	font-style: italic; */
+/* } */
+/* @font-face { */
+/* 	font-family: Lora; */
+/* 	src: url( /fonts/Lora-Regular.ttf); */
+/* 	font-weight: normal; */
+/* 	font-style: normal; */
+/* } */
 html {
 	background:#fff;
 	margin:0;
 	padding:0;
 	background-color:gray;
 }
+
 body {
-	font: 100% helvetica,arial,sans-serif;
-	line-height: 1.6;
-  padding: 20px;
+  font-family: 'Lora', sans-serif;
+  font-size: 21px;
+  line-height: 1.52;
+	padding: 20px;
+  background-color: gray;
+	color: #555;
 	text-align:left;
-	color: #333;
-	background-color:gray;
+  text-rendering: optimizeLegibility;
 }
 
 #content {
@@ -289,3 +314,55 @@ body, #content,.markdown-body {
 }
 #nav2 a:hover {
   background: rgb(96,145,172); /* фон пунктов при наведении */
+}
+/* media queries */
+
+@media (min-width: 1600px) {
+  body { font-size: 26px; }
+}
+
+@media (max-width: 900px) {
+  body { font-size: 18px; }
+}
+
+@media (max-width: 690px) {
+  .content-wrap {
+    width: auto;
+    padding: 0 1em;
+  }
+  .header {
+    margin: 1em 0;
+  }
+  .header h1 {
+    font-size: 1.4em;
+    margin-bottom: 0.6em;
+  }
+  .header .description {
+    font-size: 1em;
+  }
+  .article {
+    margin: 1em 0 2.5em;
+  }
+  .archive {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .archive * {
+    float: none !important;
+    line-height: 1.6 !important;
+    width: auto !important;
+    height: auto !important;
+    text-align: left !important;
+    border: 0 !important;
+    margin: 0 !important;
+  }
+  footer .nav {
+    margin: 1em 0;
+  }
+  footer .about {
+    padding: 0;
+    font-size: 0.9em;
+    padding-top: 1.6em;
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+
