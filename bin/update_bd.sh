@@ -20,7 +20,7 @@ scanDirRecursive() {
       done
       echo "" >> "$f"
       echo -e "# NoName Wiki" >> "$f"
-      echo -e "###### ${e##*pages/}\n" >> "$f"
+      echo -e "##### ${e##*pages/}\n" >> "$f"
       
       if ls -d "${e}"/*/ > /dev/null 2>&1
       then
