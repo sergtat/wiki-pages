@@ -65,6 +65,6 @@ scanDirRecursive "$dir"
 echo -e "# NoName Wiki" > index.md
 echo -e "## Разделы:" >> index.md
 for ((i=0; i<${RL}; i++))  ; do
-  echo -e "[**${RD[$i]}**](/${RD[$i]})" >> index.md
+  echo -e "[**${RD[$i]}**](/${RD[$i]})  " >> index.md
 done
 
