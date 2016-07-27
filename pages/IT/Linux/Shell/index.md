@@ -10,7 +10,7 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-### IT/Linux/Shell
+###### IT/Linux/Shell
 
 ## Подразделы:
 [**bash**](/IT/Linux/Shell/bash/index.md)  

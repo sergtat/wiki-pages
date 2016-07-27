@@ -10,7 +10,7 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-### IT/Linux
+###### IT/Linux
 
 ## Подразделы:
 [**Audio**](/IT/Linux/Audio/index.md)  

@@ -10,7 +10,7 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-### IT/Linux/Shell/bash
+###### IT/Linux/Shell/bash
 
 
 ## Статьи:

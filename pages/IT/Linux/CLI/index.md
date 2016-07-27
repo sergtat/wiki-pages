@@ -10,7 +10,7 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-### IT/Linux/CLI
+###### IT/Linux/CLI
 
 
 ## Статьи:
