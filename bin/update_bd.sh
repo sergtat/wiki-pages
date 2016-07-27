@@ -16,7 +16,7 @@ scanDirRecursive() {
       echo -e "[**⇑**](/index.md)\n" >> "$f"
 
       for ((i=0; i<${RL}; i++))  ; do
-        echo -e "[**${RD[$i]}**](/${RD[$i]})" >> "$f"
+        echo -e "[**${RD[$i]}**](/${RD[$i]}/index.md)" >> "$f"
       done
       echo "" >> "$f"
       echo -e "# NoName Wiki" >> "$f"
@@ -30,7 +30,7 @@ scanDirRecursive() {
       for d in "$e"/*; do
         if [ -d "$d" -a ! -L "$d" ]
         then
-          echo "[**${d##${e}/}**](${d##*pages})  " >> "$f"
+          echo "[**${d##${e}/}**](${d##*pages}/index.md)  " >> "$f"
         fi
       done
 
@@ -65,6 +65,6 @@ scanDirRecursive "$dir"
 echo -e "# NoName Wiki" > index.md
 echo -e "## Разделы:" >> index.md
 for ((i=0; i<${RL}; i++))  ; do
-  echo -e "[**${RD[$i]}**](/${RD[$i]})  " >> index.md
+  echo -e "[**${RD[$i]}**](/${RD[$i]}/index.md)  " >> index.md
 done
 

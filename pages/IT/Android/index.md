@@ -1,19 +1,19 @@
 [**⇐**](../index.md)
 [**⇑**](/index.md)
 
-[**IT**](/IT)
-[**Автомобиль**](/Автомобиль)
-[**Домоводство**](/Домоводство)
-[**Кулинария**](/Кулинария)
-[**Песни**](/Песни)
-[**Разное**](/Разное)
-[**Юмор**](/Юмор)
+[**IT**](/IT/index.md)
+[**Автомобиль**](/Автомобиль/index.md)
+[**Домоводство**](/Домоводство/index.md)
+[**Кулинария**](/Кулинария/index.md)
+[**Песни**](/Песни/index.md)
+[**Разное**](/Разное/index.md)
+[**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
 **IT/Android**
 
 ## Подразделы:
-[**Tuning**](/IT/Android/Tuning)  
+[**Tuning**](/IT/Android/Tuning/index.md)  
 
 ## Статьи:
 [HowTo return CWM or Stock Recovery](/IT/Android/HowTo return CWM or Stock Recovery.md)  

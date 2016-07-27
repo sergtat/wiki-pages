@@ -1,20 +1,20 @@
 [**⇐**](../index.md)
 [**⇑**](/index.md)
 
-[**IT**](/IT)
-[**Автомобиль**](/Автомобиль)
-[**Домоводство**](/Домоводство)
-[**Кулинария**](/Кулинария)
-[**Песни**](/Песни)
-[**Разное**](/Разное)
-[**Юмор**](/Юмор)
+[**IT**](/IT/index.md)
+[**Автомобиль**](/Автомобиль/index.md)
+[**Домоводство**](/Домоводство/index.md)
+[**Кулинария**](/Кулинария/index.md)
+[**Песни**](/Песни/index.md)
+[**Разное**](/Разное/index.md)
+[**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
 **IT/Web-development/Web-servers**
 
 ## Подразделы:
-[**nginx**](/IT/Web-development/Web-servers/nginx)  
-[**nodejs**](/IT/Web-development/Web-servers/nodejs)  
+[**nginx**](/IT/Web-development/Web-servers/nginx/index.md)  
+[**nodejs**](/IT/Web-development/Web-servers/nodejs/index.md)  
 
 ## Статьи:
 [9,5 правил ведения безопасного IT-бизнеса в России](/IT/Web-development/Web-servers/9,5 правил ведения безопасного IT-бизнеса в России.md)  

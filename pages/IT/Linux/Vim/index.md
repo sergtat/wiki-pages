@@ -1,19 +1,19 @@
 [**⇐**](../index.md)
 [**⇑**](/index.md)
 
-[**IT**](/IT)
-[**Автомобиль**](/Автомобиль)
-[**Домоводство**](/Домоводство)
-[**Кулинария**](/Кулинария)
-[**Песни**](/Песни)
-[**Разное**](/Разное)
-[**Юмор**](/Юмор)
+[**IT**](/IT/index.md)
+[**Автомобиль**](/Автомобиль/index.md)
+[**Домоводство**](/Домоводство/index.md)
+[**Кулинария**](/Кулинария/index.md)
+[**Песни**](/Песни/index.md)
+[**Разное**](/Разное/index.md)
+[**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
 **IT/Linux/Vim**
 
 ## Подразделы:
-[**LearnVimScriptTheHardway**](/IT/Linux/Vim/LearnVimScriptTheHardway)  
+[**LearnVimScriptTheHardway**](/IT/Linux/Vim/LearnVimScriptTheHardway/index.md)  
 
 ## Статьи:
 [My Vim Configuration](/IT/Linux/Vim/My Vim Configuration.md)  
