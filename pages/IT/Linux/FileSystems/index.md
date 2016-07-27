@@ -1,17 +1,29 @@
-[**«**](/index.md)
+[**⇐**](../index.md)
+[**⇑**](/index.md)
 
-# IT.Linux.FileSystems
+[**IT**](/IT)
+[**Автомобиль**](/Автомобиль)
+[**Домоводство**](/Домоводство)
+[**Кулинария**](/Кулинария)
+[**Песни**](/Песни)
+[**Разное**](/Разное)
+[**Юмор**](/Юмор)
 
-[Жесткие диски: диагностика, настройка](Жесткие диски: диагностика, настройка.md)  
-[Запись CD-DVD дисков из консоли](Запись CD-DVD дисков из консоли.md)  
-[atime mtime ctime](atime mtime ctime.md)  
-[Восстановление SD-карты](Восстановление SD-карты.md)  
-[fsck. Краткий обзор возможностей](fsck. Краткий обзор возможностей.md)  
-[TIME_WAIT](TIME_WAIT.md)  
-[Создаем DVD диск](Создаем DVD диск.md)  
-[samba](samba.md)  
-[Добавляем swap-file](Добавляем swap-file.md)  
-[Aufs и каскадное монтирование](Aufs и каскадное монтирование.md)  
-[lsof - примеры использования](lsof - примеры использования.md)  
-[Мониторинг жёстких дисков при помощи SMART](Мониторинг жёстких дисков при помощи SMART.md)  
-[Udisks](Udisks.md)  
+# NoName Wiki
+**IT/Linux/FileSystems**
+
+
+## Статьи:
+[Aufs и каскадное монтирование](/IT/Linux/FileSystems/Aufs и каскадное монтирование.md)  
+[TIME_WAIT](/IT/Linux/FileSystems/TIME_WAIT.md)  
+[Udisks](/IT/Linux/FileSystems/Udisks.md)  
+[atime mtime ctime](/IT/Linux/FileSystems/atime mtime ctime.md)  
+[fsck. Краткий обзор возможностей](/IT/Linux/FileSystems/fsck. Краткий обзор возможностей.md)  
+[lsof - примеры использования](/IT/Linux/FileSystems/lsof - примеры использования.md)  
+[samba](/IT/Linux/FileSystems/samba.md)  
+[Восстановление SD-карты](/IT/Linux/FileSystems/Восстановление SD-карты.md)  
+[Добавляем swap-file](/IT/Linux/FileSystems/Добавляем swap-file.md)  
+[Жесткие диски: диагностика, настройка](/IT/Linux/FileSystems/Жесткие диски: диагностика, настройка.md)  
+[Запись CD-DVD дисков из консоли](/IT/Linux/FileSystems/Запись CD-DVD дисков из консоли.md)  
+[Мониторинг жёстких дисков при помощи SMART](/IT/Linux/FileSystems/Мониторинг жёстких дисков при помощи SMART.md)  
+[Создаем DVD диск](/IT/Linux/FileSystems/Создаем DVD диск.md)  

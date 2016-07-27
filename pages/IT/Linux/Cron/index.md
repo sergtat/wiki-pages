@@ -1,7 +1,19 @@
-[**«**](/index.md)
+[**⇐**](../index.md)
+[**⇑**](/index.md)
 
-# IT/Linux/Cron
+[**IT**](/IT)
+[**Автомобиль**](/Автомобиль)
+[**Домоводство**](/Домоводство)
+[**Кулинария**](/Кулинария)
+[**Песни**](/Песни)
+[**Разное**](/Разное)
+[**Юмор**](/Юмор)
 
-[Кукушка на bash своими руками](Кукушка на bash своими руками.md)  
-[cron, at, batch, anacron](cron, at, batch, anacron.md)  
-[How can I use fcrontab in scripts](How can I use fcrontab in scripts.md)  
+# NoName Wiki
+**IT/Linux/Cron**
+
+
+## Статьи:
+[How can I use fcrontab in scripts](/IT/Linux/Cron/How can I use fcrontab in scripts.md)  
+[cron, at, batch, anacron](/IT/Linux/Cron/cron, at, batch, anacron.md)  
+[Кукушка на bash своими руками](/IT/Linux/Cron/Кукушка на bash своими руками.md)  

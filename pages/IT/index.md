@@ -1,12 +1,24 @@
-[**«**](/index.md)  
+[**⇐**](../index.md)
+[**⇑**](/index.md)
 
-[**Android**](./Android/index.md)
-[**Databases**](./Databases/index.md)
-[**Hardware**](./Hardware/index.md)
-[**Internet**](./Internet/index.md)
-[**Linux**](./Linux/index.md)
-[**Software**](./Software/index.md)
-[**Web-development**](./Web-development/index.md)
-[**Windows**](./Windows/index.md)
+[**IT**](/IT)
+[**Автомобиль**](/Автомобиль)
+[**Домоводство**](/Домоводство)
+[**Кулинария**](/Кулинария)
+[**Песни**](/Песни)
+[**Разное**](/Разное)
+[**Юмор**](/Юмор)
 
-# IT
+# NoName Wiki
+**IT**
+
+## Подразделы:
+[**Android**](/IT/Android)  
+[**Databases**](/IT/Databases)  
+[**Hardware**](/IT/Hardware)  
+[**Internet**](/IT/Internet)  
+[**Linux**](/IT/Linux)  
+[**Software**](/IT/Software)  
+[**Web-development**](/IT/Web-development)  
+[**Windows**](/IT/Windows)  
+

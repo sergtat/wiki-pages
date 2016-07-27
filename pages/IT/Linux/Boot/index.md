@@ -1,9 +1,21 @@
-[**«**](/index.md)
+[**⇐**](../index.md)
+[**⇑**](/index.md)
 
-# IT/Linux/Boot
+[**IT**](/IT)
+[**Автомобиль**](/Автомобиль)
+[**Домоводство**](/Домоводство)
+[**Кулинария**](/Кулинария)
+[**Песни**](/Песни)
+[**Разное**](/Разное)
+[**Юмор**](/Юмор)
 
-[Создание multiboot HDD в linux (GRUB2+memdisk+grub4dos)](Создание multiboot HDD в linux (GRUB2+memdisk+grub4dos).md)  
-[Загрузка Gentoo Live CD из ISO при помощи grub4dos](Загрузка Gentoo Live CD из ISO при помощи grub4dos.md)  
-[Установка загрузчика grub4dos на флешку из linux-консоли](Установка загрузчика grub4dos на флешку из linux-консоли.md)  
-[Создание мультизагрузочного USB-диска из нескольких liveCD](Создание мультизагрузочного USB-диска из нескольких liveCD.md)  
-[Grub4Dos. Опции загрузки](Grub4Dos. Опции загрузки.md)  
+# NoName Wiki
+**IT/Linux/Boot**
+
+
+## Статьи:
+[Grub4Dos. Опции загрузки](/IT/Linux/Boot/Grub4Dos. Опции загрузки.md)  
+[Загрузка Gentoo Live CD из ISO при помощи grub4dos](/IT/Linux/Boot/Загрузка Gentoo Live CD из ISO при помощи grub4dos.md)  
+[Создание multiboot HDD в linux (GRUB2+memdisk+grub4dos)](/IT/Linux/Boot/Создание multiboot HDD в linux (GRUB2+memdisk+grub4dos).md)  
+[Создание мультизагрузочного USB-диска из нескольких liveCD](/IT/Linux/Boot/Создание мультизагрузочного USB-диска из нескольких liveCD.md)  
+[Установка загрузчика grub4dos на флешку из linux-консоли](/IT/Linux/Boot/Установка загрузчика grub4dos на флешку из linux-консоли.md)  

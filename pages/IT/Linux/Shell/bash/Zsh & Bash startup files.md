@@ -1,0 +1,1 @@
+../zsh/Zsh & Bash startup files.md
