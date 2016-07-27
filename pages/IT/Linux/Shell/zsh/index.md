@@ -10,7 +10,7 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-**IT/Linux/Shell/zsh**
+### IT/Linux/Shell/zsh
 
 
 ## Статьи:

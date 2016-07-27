@@ -10,7 +10,7 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-**IT/Windows/SketchUp**
+### IT/Windows/SketchUp
 
 
 ## Статьи:

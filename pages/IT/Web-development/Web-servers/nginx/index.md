@@ -10,7 +10,7 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-**IT/Web-development/Web-servers/nginx**
+### IT/Web-development/Web-servers/nginx
 
 
 ## Статьи:

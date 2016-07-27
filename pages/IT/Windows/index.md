@@ -10,7 +10,7 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-**IT/Windows**
+### IT/Windows
 
 ## Подразделы:
 [**SketchUp**](/IT/Windows/SketchUp/index.md)  

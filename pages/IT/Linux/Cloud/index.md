@@ -10,7 +10,7 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-**IT/Linux/Cloud**
+### IT/Linux/Cloud
 
 
 ## Статьи:

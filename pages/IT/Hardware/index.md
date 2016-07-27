@@ -10,7 +10,7 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-**IT/Hardware**
+### IT/Hardware
 
 
 ## Статьи:
