@@ -47,15 +47,15 @@
 
 Ещё один довод в пользу LetyShops — это наличие [расширения для Chrome](https://letyshops.ru/goto-toolbar?LifeHackerShop), которое избавляет от необходимости заходить в интернет-магазины через сайт сервиса.
 
-![]( ~/repo/sites/wiki/images/Houseworks/Shoping/cashback_02.png)
+![](/images/Houseworks/Shoping/cashback_02.png)
 
 Если вы заходите на сайт какого-то магазина, на котором предусмотрен кешбэк через LetyShops, то расширение автоматически об этом оповестит.
 
-![]( ~/repo/sites/wiki/images/Houseworks/Shoping/cashback_03.png)
+![](/images/Houseworks/Shoping/cashback_03.png)
 
 Активация кешбэка происходит в один клик. После этого можно продолжить оформлять покупку как обычно.
 
-![]( ~/repo/sites/wiki/images/Houseworks/Shoping/cashback_04.png)
+![](/images/Houseworks/Shoping/cashback_04.png)
 
 Сочетание кешбэк-сервиса и ориентированной на шопинг банковской карты даёт в среднем около 7,5% экономии, а при особо удачном стечении обстоятельств — 35% и более. Если вы регулярно совершаете крупные покупки, это выливается в очень и очень приличные суммы.
 
