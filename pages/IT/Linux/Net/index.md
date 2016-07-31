@@ -10,7 +10,7 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-###### IT/Linux/Net
+##### IT/Linux/Net
 
 
 ## Статьи:

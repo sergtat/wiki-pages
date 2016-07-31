@@ -10,11 +10,30 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-###### IT/Linux/Shell/bash
+##### IT/Linux/Shell/bash
 
 
 ## Статьи:
 [5 советов для работы с историей в Bash](/IT/Linux/Shell/bash/5 советов для работы с историей в Bash.md)  
 [Zsh & Bash startup files](/IT/Linux/Shell/bash/Zsh & Bash startup files.md)  
 [Арифметические операторы](/IT/Linux/Shell/bash/Арифметические операторы.md)  
+[Битовые операторы](/IT/Linux/Shell/bash/Битовые операторы.md)  
+[Ветвления](/IT/Linux/Shell/bash/Ветвления.md)  
+[Использование массивов](/IT/Linux/Shell/bash/Использование массивов.md)  
+[Логические операторы](/IT/Linux/Shell/bash/Логические операторы.md)  
+[Массивы](/IT/Linux/Shell/bash/Массивы.md)  
+[Массовое переименование файлов](/IT/Linux/Shell/bash/Массовое переименование файлов.md)  
+[Операторы сравнения](/IT/Linux/Shell/bash/Операторы сравнения.md)  
+[Особые переменные](/IT/Linux/Shell/bash/Особые переменные.md)  
+[Параметры](/IT/Linux/Shell/bash/Параметры.md)  
+[Переменные](/IT/Linux/Shell/bash/Переменные.md)  
+[Перенаправление вывода](/IT/Linux/Shell/bash/Перенаправление вывода.md)  
+[Поменять права группы файлов из консоли](/IT/Linux/Shell/bash/Поменять права группы файлов из консоли.md)  
+[Пример правильного bash-скрипта](/IT/Linux/Shell/bash/Пример правильного bash-скрипта.md)  
+[Простая генерация паролей](/IT/Linux/Shell/bash/Простая генерация паролей.md)  
+[Рекурсивный обход дерева каталогов](/IT/Linux/Shell/bash/Рекурсивный обход дерева каталогов.md)  
+[Строки](/IT/Linux/Shell/bash/Строки.md)  
 [Текстовые замены и подстановки в Bash](/IT/Linux/Shell/bash/Текстовые замены и подстановки в Bash.md)  
+[Упаковать дерево файлов в архив](/IT/Linux/Shell/bash/Упаковать дерево файлов в архив.md)  
+[Функции](/IT/Linux/Shell/bash/Функции.md)  
+[Циклы](/IT/Linux/Shell/bash/Циклы.md)  

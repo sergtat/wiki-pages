@@ -10,7 +10,7 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-###### IT/Linux/Vim/LearnVimScriptTheHardway
+##### IT/Linux/Vim/LearnVimScriptTheHardway
 
 
 ## Статьи:

@@ -10,7 +10,7 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-###### IT/Internet
+##### IT/Internet
 
 ## Подразделы:
 [**Clouds**](/IT/Internet/Clouds/index.md)  
