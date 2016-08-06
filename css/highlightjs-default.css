@@ -46,7 +46,7 @@ Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiac
 .asciidoc .hljs-header,
 .markdown .hljs-header,
 .coffeescript .hljs-attribute {
-  color: #800;
+  color: #c00;
 }
 
 .smartquote,

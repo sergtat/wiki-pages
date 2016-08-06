@@ -1,9 +1,7 @@
 @import "reset.css";
 
 body:not([id]) { cursor: auto !important; }
-h1, h2, h3, h4, h5, h6, p, img, article, blockquote {
-  margin: 0.5em 0;
-}
+h1, h2, h3, h4, h5, h6, p, img, article, blockquote { margin: 0.5em 0; }
 h1 { font-size: 2.2em; }
 h2 { font-size: 2.0em; }
 h3 { font-size: 1.8em; }
@@ -15,14 +13,8 @@ em { font-style: italic; }
 .strike { text-decoration: line-through; }
 .underline { text-decoration: underline; }
 .overline { text-decoration: overline; }
-a {
-  color: #000;
-  text-decoration: none;
-}
-a:hover {
-  color: brown;
-  text-decoration: none;
-}
+a { color: #fe921f; text-decoration: underline; }
+a:hover { color: #000 }
 body {
   font-family: Verdana, sans-serif;
   line-height: 1.4;
@@ -30,86 +22,172 @@ body {
   background-color: #f4ecd8;
 }
 img {width:100%;}
-#content {
-  padding:0 1em;
-}
+#content { padding:0 1em; }
 pre, code {
   font: 1em 'Courier',monospace;
   font-size: 1.2em;
 }
 pre {
-  background-color: #5b4636;
+  background-color: #5a4636;
   color: #f4ecd8;
   padding-left: 1em;
   overflow:auto;
 }
-/* Pygments coloring */
-.highlight .pl-c{color:#998;font-style:italic;}
-.highlight .pl-err{color:#a61717;background-color:#e3d2d2;}
-.highlight .pl-k{font-weight:bold;}
-.highlight .pl-o{font-weight:bold;}
-.highlight .pl-cm{color:#998;font-style:italic;}
-.highlight .pl-cp{color:#999;font-weight:bold;}
-.highlight .pl-c1{color:#998;font-style:italic;}
-.highlight .pl-cs{color:#999;font-weight:bold;font-style:italic;}
-.highlight .pl-gd{color:#000;background-color:#fdd;}
-.highlight .pl-gd .x{color:#000;background-color:#faa;}
-.highlight .pl-ge{font-style:italic;}
-.highlight .pl-gr{color:#a00;}
-.highlight .pl-gh{color:#999;}
-.highlight .pl-gi{color:#000;background-color:#dfd;}
-.highlight .pl-gi .pl-x{color:#000;background-color:#afa;}
-.highlight .pl-go{color:#888;}
-.highlight .pl-gp{color:#555;}
-.highlight .pl-gs{font-weight:bold;}
-.highlight .pl-gu{color:#800080;font-weight:bold;}
-.highlight .pl-gt{color:#a00;}
-.highlight .pl-kc{font-weight:bold;}
-.highlight .pl-kd{font-weight:bold;}
-.highlight .pl-kn{font-weight:bold;}
-.highlight .pl-kp{font-weight:bold;}
-.highlight .pl-kr{font-weight:bold;}
-.highlight .pl-kt{color:#458;font-weight:bold;}
-.highlight .pl-m{color:#099;}
-.highlight .pl-s{color:#d14;}
-.highlight .pl-na{color:#008080;}
-.highlight .pl-nb{color:#0086B3;}
-.highlight .pl-nc{color:#458;font-weight:bold;}
-.highlight .pl-no{color:#008080;}
-.highlight .pl-ni{color:#800080;}
-.highlight .pl-ne{color:#900;font-weight:bold;}
-.highlight .pl-nf{color:#900;font-weight:bold;}
-.highlight .pl-nn{color:#555;}
-.highlight .pl-nt{color:#000080;}
-.highlight .pl-nv{color:#008080;}
-.highlight .pl-ow{font-weight:bold;}
-.highlight .pl-w{color:#bbb;}
-.highlight .pl-mf{color:#099;}
-.highlight .pl-mh{color:#099;}
-.highlight .pl-mi{color:#099;}
-.highlight .pl-mo{color:#099;}
-.highlight .pl-sb{color:#d14;}
-.highlight .pl-sc{color:#d14;}
-.highlight .pl-sd{color:#d14;}
-.highlight .pl-s2{color:#d14;}
-.highlight .pl-se{color:#d14;}
-.highlight .pl-sh{color:#d14;}
-.highlight .pl-si{color:#d14;}
-.highlight .pl-sx{color:#d14;}
-.highlight .pl-sr{color:#009926;}
-.highlight .pl-s1{color:#d14;}
-.highlight .pl-ss{color:#990073;}
-.highlight .pl-bp{color:#999;}
-.highlight .pl-vc{color:#008080;}
-.highlight .pl-vg{color:#008080;}
-.highlight .pl-vi{color:#008080;}
-.highlight .pl-il{color:#099;}
-.highlight .pl-pds{color:#990;}
-.highlight .pl-smi{color:#099;}
+i.checked {
+  /* display: block; */
+  background: url(/img/galka.png) no-repeat;
+  /* background-position: 35px 5px; */
+  padding-left: 2em;
+  /* min-height: 32px; */
+}
+.red { color:red; }
+.green { color:green; }
+.blue { color:blue; }
 
-.red{color:red;}
-.green{color:green;}
-.blue{color:blue;}
+/* media queries */
+@media screen and (max-width: 690px) {
+  body { width: 100%; }
+  #content-main {
+    padding: 0.3em;
+  }
+  .header { margin: 1em 0; }
+  .header h1 {
+    font-size: 1.4em;
+    margin-bottom: 0.6em;
+  }
+  .header .description { font-size: 1em; }
+  .article { margin: 1em 0 2.5em; }
+  .archive {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .archive * {
+    float: none !important;
+    line-height: 1.6 !important;
+    width: auto !important;
+    height: auto !important;
+    text-align: left !important;
+    border: 0 !important;
+    margin: 0 !important;
+  }
+  footer .nav { margin: 1em 0; }
+  footer .about {
+    padding: 0;
+    font-size: 0.9em;
+    padding-top: 1.6em;
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+}}
+@media screen and (min-width: 1100px) {
+  #content { width: 980px; margin: auto;}
+  .shadow {
+    -webkit-box-shadow:0 5px 15px #000;
+    -moz-box-shadow:0 5px 15px #000;
+    box-shadow:0 5px 15px #000;
+}
+}
+@media print {
+body {
+  font: 100% helvetica,arial,sans-serif;
+  line-height: 1;
+  padding: 20px;
+  text-align:left;
+}
+body, #content,.markdown-body {
+  max-width: 60%;
+  margin: 0 auto;
+  padding: 2em;
+  border-radius:0;
+  color: black;
+  box-shadow: 0 0 0 0;
+  min-width:0;
+  font-size: medium;
+}
+.col {
+  float: left;
+  padding-right: 5em;
+  font-size: medium;
+}
+#nav2, #nav2 li {
+  margin: 0;
+  padding: 0;
+}
+#nav2 { background: rgb(46,95,122); /* цвет фона */ }
+#nav2 li {
+  display: inline-block;
+  text-align: center; /* текст горизонтально по центру */
+}
+#nav2 a {
+  display: block; /* ссылка растягивается на весь пункт li */
+  padding: 3px 15px;
+  color: #fff; /* цвет текста */
+  text-decoration: none; /* убрать нижнее подчёркивание у ссылок */
+}
+#nav2 a:hover { background: rgb(96,145,172); /* фон пунктов при наведении */ }
+}
+/* Pygments coloring */
+/* .highlight .pl-c{color:#998;font-style:italic;} */
+/* .highlight .pl-err{color:#a61717;background-color:#e3d2d2;} */
+/* .highlight .pl-k{font-weight:bold;} */
+/* .highlight .pl-o{font-weight:bold;} */
+/* .highlight .pl-cm{color:#998;font-style:italic;} */
+/* .highlight .pl-cp{color:#999;font-weight:bold;} */
+/* .highlight .pl-c1{color:#998;font-style:italic;} */
+/* .highlight .pl-cs{color:#999;font-weight:bold;font-style:italic;} */
+/* .highlight .pl-gd{color:#000;background-color:#fdd;} */
+/* .highlight .pl-gd .x{color:#000;background-color:#faa;} */
+/* .highlight .pl-ge{font-style:italic;} */
+/* .highlight .pl-gr{color:#a00;} */
+/* .highlight .pl-gh{color:#999;} */
+/* .highlight .pl-gi{color:#000;background-color:#dfd;} */
+/* .highlight .pl-gi .pl-x{color:#000;background-color:#afa;} */
+/* .highlight .pl-go{color:#888;} */
+/* .highlight .pl-gp{color:#555;} */
+/* .highlight .pl-gs{font-weight:bold;} */
+/* .highlight .pl-gu{color:#800080;font-weight:bold;} */
+/* .highlight .pl-gt{color:#a00;} */
+/* .highlight .pl-kc{font-weight:bold;} */
+/* .highlight .pl-kd{font-weight:bold;} */
+/* .highlight .pl-kn{font-weight:bold;} */
+/* .highlight .pl-kp{font-weight:bold;} */
+/* .highlight .pl-kr{font-weight:bold;} */
+/* .highlight .pl-kt{color:#458;font-weight:bold;} */
+/* .highlight .pl-m{color:#099;} */
+/* .highlight .pl-s{color:#d14;} */
+/* .highlight .pl-na{color:#008080;} */
+/* .highlight .pl-nb{color:#0086B3;} */
+/* .highlight .pl-nc{color:#458;font-weight:bold;} */
+/* .highlight .pl-no{color:#008080;} */
+/* .highlight .pl-ni{color:#800080;} */
+/* .highlight .pl-ne{color:#900;font-weight:bold;} */
+/* .highlight .pl-nf{color:#900;font-weight:bold;} */
+/* .highlight .pl-nn{color:#555;} */
+/* .highlight .pl-nt{color:#000080;} */
+/* .highlight .pl-nv{color:#008080;} */
+/* .highlight .pl-ow{font-weight:bold;} */
+/* .highlight .pl-w{color:#bbb;} */
+/* .highlight .pl-mf{color:#099;} */
+/* .highlight .pl-mh{color:#099;} */
+/* .highlight .pl-mi{color:#099;} */
+/* .highlight .pl-mo{color:#099;} */
+/* .highlight .pl-sb{color:#d14;} */
+/* .highlight .pl-sc{color:#d14;} */
+/* .highlight .pl-sd{color:#d14;} */
+/* .highlight .pl-s2{color:#d14;} */
+/* .highlight .pl-se{color:#d14;} */
+/* .highlight .pl-sh{color:#d14;} */
+/* .highlight .pl-si{color:#d14;} */
+/* .highlight .pl-sx{color:#d14;} */
+/* .highlight .pl-sr{color:#009926;} */
+/* .highlight .pl-s1{color:#d14;} */
+/* .highlight .pl-ss{color:#990073;} */
+/* .highlight .pl-bp{color:#999;} */
+/* .highlight .pl-vc{color:#008080;} */
+/* .highlight .pl-vg{color:#008080;} */
+/* .highlight .pl-vi{color:#008080;} */
+/* .highlight .pl-il{color:#099;} */
+/* .highlight .pl-pds{color:#990;} */
+/* .highlight .pl-smi{color:#099;} */
 
 /* blockquote */
 /* { */
@@ -160,103 +238,4 @@ pre {
 /*         content: ""; */
 /* } */
 
-/* media queries */
-/* @media (max-width: 900px) { */
-/* } */
-/* @media (max-width: 690px) { */
-/*   body { */
-/*     width: 100%; */
-/*   } */
-/*   .content-wrap { */
-/*     width: 100%; */
-/*     padding: 0.3em; */
-/*   } */
-/*   .header { */
-/*     margin: 1em 0; */
-/*   } */
-/*   .header h1 { */
-/*     font-size: 1.4em; */
-/*     margin-bottom: 0.6em; */
-/*   } */
-/*   .header .description { */
-/*     font-size: 1em; */
-/*   } */
-/*   .article { */
-/*     margin: 1em 0 2.5em; */
-/*   } */
-/*   .archive { */
-/*     width: 80%; */
-/*     margin: 0 auto; */
-/*   } */
-/*   .archive * { */
-/*     float: none !important; */
-/*     line-height: 1.6 !important; */
-/*     width: auto !important; */
-/*     height: auto !important; */
-/*     text-align: left !important; */
-/*     border: 0 !important; */
-/*     margin: 0 !important; */
-/*   } */
-/*   footer .nav { */
-/*     margin: 1em 0; */
-/*   } */
-/*   footer .about { */
-/*     padding: 0; */
-/*     font-size: 0.9em; */
-/*     padding-top: 1.6em; */
-/*     -webkit-column-count: 1; */
-/*     -moz-column-count: 1; */
-
-@media print {
-body {
-  font: 100% helvetica,arial,sans-serif;
-  line-height: 1;
-  padding: 20px;
-  text-align:left;
-}
-body, #content,.markdown-body {
-  max-width: 60%;
-  margin: 0 auto;
-  padding: 2em;
-  border-radius:0;
-  color: black;
-  box-shadow: 0 0 0 0;
-  min-width:0;
-  font-size: medium;
-}
-.col {
-  float: left;
-  padding-right: 5em;
-  font-size: medium;
-}
-#nav2, #nav2 li {
-  margin: 0;
-  padding: 0;
-}
-#nav2 {
-  background: rgb(46,95,122); /* цвет фона */
-}
-#nav2 li {
-  display: inline-block;
-  text-align: center; /* текст горизонтально по центру */
-}
-#nav2 a {
-  display: block; /* ссылка растягивается на весь пункт li */
-  padding: 3px 15px;
-  color: #fff; /* цвет текста */
-  text-decoration: none; /* убрать нижнее подчёркивание у ссылок */
-}
-#nav2 a:hover {
-  background: rgb(96,145,172); /* фон пунктов при наведении */
-}
-}
-
-@media screen and (min-width: 1100px) {
-  #content { width: 980px; margin: auto;}
-  .shadow {
-    -webkit-box-shadow:0 5px 15px #000;
-    -moz-box-shadow:0 5px 15px #000;
-    box-shadow:0 5px 15px #000;
-}
-}
 
