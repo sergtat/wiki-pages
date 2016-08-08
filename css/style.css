@@ -63,6 +63,7 @@ i.checked{
   color:black;
   background-color:white;
 }
+p{text-align:justify}
 pre{font:10pt 'Courier',monospace;}
 pre{
   color:black;
