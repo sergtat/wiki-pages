@@ -3,7 +3,7 @@
 Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiacs.Org>
 
 */
-
+@media not print{
 .hljs {
   display: block; padding: 0.5em;
   background: #F0F0F0;
@@ -150,4 +150,5 @@ Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiac
 .xml .css,
 .xml .hljs-cdata {
   opacity: 0.5;
+}
 }
