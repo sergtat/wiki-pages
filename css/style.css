@@ -9,6 +9,7 @@ h4{font-size:1.6em;}
 h5{font-size:1.4em;}
 h6{font-size:1.2em;}
 h1,h2,h3,h4,h5,h6,strong{font-weight:bold;}
+ul,ol{margin:1em 1em;}
 em{font-style:italic;}
 .strike{text-decoration:line-through;}
 .underline{text-decoration:underline;}
@@ -20,6 +21,7 @@ body{
   line-height:1.4;
   color:#5b4636;
   background-color:#f4ecd8;
+  text-align:justify;
 }
 img{width:100%;}
 #content{padding:0 1em;}
@@ -55,15 +57,14 @@ i.checked{
   }
 }
 @media print{
-  a{color: black; text-decoration: underline;}
-  body{
+a{color: black; text-decoration: underline;}
+body{
   width:100%;
   font:12pt Georgia,serif;
   line-height:1;
   color:black;
   background-color:white;
 }
-p{text-align:justify}
 pre{font:10pt 'Courier',monospace;}
 pre{
   color:black;

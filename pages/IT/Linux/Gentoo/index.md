@@ -17,7 +17,7 @@
 [FAQ](/IT/Linux/Gentoo/FAQ.md)  
 [Portage TMPDIR on tmpfs](/IT/Linux/Gentoo/Portage TMPDIR on tmpfs.md)  
 [Postinstall](/IT/Linux/Gentoo/Postinstall.md)  
-[Tricks (Полезняшки)](/IT/Linux/Gentoo/Tricks (Полезняшки).md)  
+[Tricks. Полезняшки](/IT/Linux/Gentoo/Tricks. Полезняшки.md)  
 [Автоматизация обновления мира](/IT/Linux/Gentoo/Автоматизация обновления мира.md)  
 [Быстрая установка на систему с UEFI](/IT/Linux/Gentoo/Быстрая установка на систему с UEFI.md)  
 [Инструкции по обновлению](/IT/Linux/Gentoo/Инструкции по обновлению.md)  

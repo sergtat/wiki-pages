@@ -16,6 +16,6 @@
 ## Статьи:
 [Grub4Dos. Опции загрузки](/IT/Linux/Boot/Grub4Dos. Опции загрузки.md)  
 [Загрузка Gentoo Live CD из ISO при помощи grub4dos](/IT/Linux/Boot/Загрузка Gentoo Live CD из ISO при помощи grub4dos.md)  
-[Создание multiboot HDD в linux (GRUB2+memdisk+grub4dos)](/IT/Linux/Boot/Создание multiboot HDD в linux (GRUB2+memdisk+grub4dos).md)  
+[Создание multiboot HDD в linux. GRUB2+memdisk+grub4dos](/IT/Linux/Boot/Создание multiboot HDD в linux. GRUB2+memdisk+grub4dos.md)  
 [Создание мультизагрузочного USB-диска из нескольких liveCD](/IT/Linux/Boot/Создание мультизагрузочного USB-диска из нескольких liveCD.md)  
 [Установка загрузчика grub4dos на флешку из linux-консоли](/IT/Linux/Boot/Установка загрузчика grub4dos на флешку из linux-консоли.md)  

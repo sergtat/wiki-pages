@@ -14,7 +14,8 @@
 
 
 ## Статьи:
-[FAQ Проверка порта](/IT/Linux/Net/FAQ Проверка порта.md)  
+[FAQ. Проверка порта](/IT/Linux/Net/FAQ. Проверка порта.md)  
+[HOWTO. Настройка шлюза](/IT/Linux/Net/HOWTO. Настройка шлюза.md)  
 [iptables. Наглядная схема](/IT/Linux/Net/iptables. Наглядная схема.md)  
 [iptables. Файрвол](/IT/Linux/Net/iptables. Файрвол.md)  
 [netcat. Полезные Unix утилиты](/IT/Linux/Net/netcat. Полезные Unix утилиты.md)  
@@ -31,4 +32,3 @@
 [Использование SSH](/IT/Linux/Net/Использование SSH.md)  
 [Консольные команды. Работа с сетью.](/IT/Linux/Net/Консольные команды. Работа с сетью..md)  
 [Короткий обзор сетевых команд](/IT/Linux/Net/Короткий обзор сетевых команд.md)  
-[Настройка шлюза (HOWTO)](/IT/Linux/Net/Настройка шлюза (HOWTO).md)  
