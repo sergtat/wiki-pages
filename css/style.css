@@ -42,7 +42,33 @@ i.checked{
 .red{color:red;}
 .green{color:green;}
 .blue{color:blue;}
-
+.youtube {
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  transition: all 200ms ease-out;
+  cursor: pointer;
+}
+.youtube .play {
+  background: url('/img/youtube-play-btn.png') no-repeat;
+  background-position: 0 -50px;
+  -webkit-background-size: 100% auto;
+  background-size: 100% auto;
+  position: absolute;
+  height: 50px;
+  width: 69px;
+  transition: none;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  margin:auto;
+}
+.youtube:hover .play {
+  background-position: 0 0;
+}
 @media screen and (max-width:690px){
   body{width:100%;}
   #content-main{
