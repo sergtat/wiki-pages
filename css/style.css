@@ -9,6 +9,7 @@ h4{font-size:1.6em;}
 h5{font-size:1.4em;}
 h6{font-size:1.2em;}
 h1,h2,h3,h4,h5,h6,strong{font-weight:bold;}
+h1, h2, h3, h4, h5, h6 {text-align: left}
 ul,ol{margin:1em 1em;}
 em{font-style:italic;}
 .strike{text-decoration:line-through;}
