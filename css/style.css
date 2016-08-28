@@ -33,6 +33,35 @@ pre{
   padding-left:1em;
   overflow:auto;
 }
+table {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 0.8em;
+  background: #fff;
+  max-width: 100%;
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  margin: 0 auto 20px;
+}
+td {
+  transition: .3s linear;
+}
+table th {
+  font-size: 14px;
+  font-weight: bold;
+  border-bottom: 1px solid #5b4636;
+  background: #ffe4b6;
+  color: #5b4636;
+  padding: 10px 15px;
+}
+table td {
+  color: #5b4636;
+  border-top: 1px solid #e8edff;
+  padding: 10px 15px;
+}
+table tr:nth-child(2n) {
+  background: #ffe4b6;
+}
 i.checked{
   /* display:block; */
   background:url(/img/galka.png) no-repeat;
