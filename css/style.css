@@ -8,9 +8,10 @@ h3{font-size:1.8em;}
 h4{font-size:1.6em;}
 h5{font-size:1.4em;}
 h6{font-size:1.2em;}
-h1,h2,h3,h4,h5,h6,strong{font-weight:bold;}
+h1,h2,h3,h4,h5,h6,strong,b{font-weight:bold;}
 h1, h2, h3, h4, h5, h6 {text-align: left}
 ul,ol{margin:1em 1em;}
+li { margin-left: inherit; }
 em{font-style:italic;}
 .strike{text-decoration:line-through;}
 .underline{text-decoration:underline;}
@@ -31,6 +32,7 @@ pre{
   background-color:#5a4636;
   color:#f4ecd8;
   padding-left:1em;
+  margin-top: 1em;
   overflow:auto;
 }
 table {
