@@ -1,5 +1,5 @@
-# Конфетты Toffifee.
-![Конфетты Toffifee](/images/Kulinar/Desert/konfety-Toffifee.jpg 'Конфетты Toffifee')
+# Конфеты Toffifee.
+![Конфеты Toffifee](/images/Kulinar/Desert/konfety-Toffifee.jpg 'Конфеты Toffifee')
 
 **Ингредиенты:**
 

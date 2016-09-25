@@ -1,5 +1,5 @@
-# Конфетты Snickers.
-![Конфетты Snickers](/images/Kulinar/Desert/konfety_Snickers.jpg 'Конфетты Snickers')
+# Конфеты Snickers.
+![Конфеты Snickers](/images/Kulinar/Desert/konfety_Snickers.jpg 'Конфеты Snickers')
 
 **Вам потребуется:**
 

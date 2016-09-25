@@ -1,5 +1,5 @@
-# Конфетты Ferrero Rocher.
-![Конфетты Ferrero Rocher](/images/Kulinar/Desert/konfety-FR.jpg 'Конфетты Ferrero Rocher')
+# Конфеты Ferrero Rocher.
+![Конфеты Ferrero Rocher](/images/Kulinar/Desert/konfety-FR.jpg 'Конфеты Ferrero Rocher')
 
 **Ингредиенты:**
 
