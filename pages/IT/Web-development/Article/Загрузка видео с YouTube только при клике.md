@@ -28,10 +28,7 @@ _**При создании сайта под заказ или просто дл
 HTML код устанавливает идентификатор видео, стиль размера видео (ширина и высота), а также перечень параметров URL Youtube, если это необходимо.
 
 ```html
-<div class="youtube"
-  id="0wCC3aLXdOw"
-  style="width: 500px; height: 281px;">
-</div>
+<div class="youtube" id="0wCC3aLXdOw" style="width: 560px; height: 315px;"></div>
 
 <div class="youtube"
     id="lR4tJr7sMPM"

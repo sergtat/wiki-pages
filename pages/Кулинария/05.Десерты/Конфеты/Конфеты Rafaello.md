@@ -1,5 +1,5 @@
-# Конфетты Rafaello.
-![Конфетты Rafaello](/images/Kulinar/Desert/konfety_rafaello.jpg 'Конфетты Rafaello')
+# Конфеты Rafaello.
+![Конфеты Rafaello](/images/Kulinar/Desert/konfety_rafaello.jpg 'Конфеты Rafaello')
 
 **Что тебе нужно:**
 

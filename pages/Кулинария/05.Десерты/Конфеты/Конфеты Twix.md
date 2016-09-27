@@ -1,5 +1,5 @@
-# Конфетты Twix.
-![Конфетты Twix](/images/Kulinar/Desert/twix.jpg 'Конфетты Twix')
+# Конфеты Twix.
+![Конфеты Twix](/images/Kulinar/Desert/twix.jpg 'Конфеты Twix')
 
 **Ингредиенты:**
 

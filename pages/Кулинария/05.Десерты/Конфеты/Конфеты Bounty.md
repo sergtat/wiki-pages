@@ -1,5 +1,5 @@
-# Конфетты Bounty.
-![Конфетты Bounty](/images/Kulinar/Desert/konfety-baunti.jpg 'Конфетты Bounty')
+# Конфеты Bounty.
+![Конфеты Bounty](/images/Kulinar/Desert/konfety-baunti.jpg 'Конфеты Bounty')
 
 **Ингредиенты:**
 
