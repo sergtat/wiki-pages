@@ -30,7 +30,6 @@ if __name__ == '__main__':
     print('This is highlighted Python code!')
     sys.exit(0)
 ```
-
 # Page Layout with \LaTeX\ Commands
 
 Here's a forced page break.
@@ -39,24 +38,20 @@ $$\pagebreak$$
 
 # LaTeX support
 
-This document supports inline $\LaTeX!$
+This document supports inline \\(\LaTeX!\\)
 
-Here's the proof: $\frac{n!}{k!(n-k)!} = \binom{n}{k}$
+Here's the proof: \\(\frac{n!}{k!(n-k)!} = \binom{n}{k}\\)
 
-Creating a footnote is easy.$\footnote{An example footnote.}$
+Creating a footnote is easy.\\(\footnote{An example footnote.}\\)
 
 Here's an equation:
 
-$$
-  x = a_0 + \cfrac{1}{a_1
-          + \cfrac{1}{a_2
-          + \cfrac{1}{a_3 + \cfrac{1}{a_4} } } }
-$$
+$$ x = a_0 + \cfrac{1}{a_1 + \cfrac{1}{a_2 + \cfrac{1}{a_3 + \cfrac{1}{a_4} } } } $$
 
 Here are some numbered equations:
 
 $$
-\begin{equation} 
+\begin{equation}
  f(x)=(x+a)(x+b)
 \end{equation}
 $$
@@ -84,12 +79,12 @@ $$
 $$
 
 $$
-\begin{align*}
+\begin{cases}
  f(x) &= (x+a)(x+b) \\
  &= x^2 + (a+b)x + ab
-\end{align*}
+\end{cases}
 $$
 
-<img src="http://chart.apis.google.com/chart?cht=tx&chs=1x0&chf=bg,s,FFFFFF00&chco=000000&chs=40&chl=\sqrt{x}">
+<img src="http://chart.apis.google.com/chart?cht=tx&chs=1x0&chf=bg,s,FFFFFF00&chco=000000&chs=40&chl=\sqrt{x}" style='height:auto;width:auto'/>
 
-<img src="http://www.codecogs.com/eq.latex?\underbrace{a+\overbrace{b+\cdots+y}^{24}+z}_{26})"/>
+<img src="http://www.codecogs.com/eq.latex?\underbrace{a+\overbrace{b+\cdots+y}^{24}+z}_{26})" style='height:auto;width:auto;'/>

@@ -101,6 +101,8 @@ i.checked{
 .youtube:hover .play {
   background-position: 0 0;
 }
+/*.mjx-chtml {text-align:left !important;}*/
+
 @media screen and (max-width:690px){
   body{width:100%;}
   #content-main{
