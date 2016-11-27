@@ -1,3 +1,9 @@
+# Примеры комментариев
+// Не работает <!-- worked -->
+<!-- Работает-->
+
+![Markdown. Пример]( /img/markdown.png 'Markdown. Пример')<!-- Работает-->
+
 # Math example.
 
 The *Gamma function* satisfying \\(\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N\\) is via the Euler integral
@@ -195,7 +201,7 @@ which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
           -
           - asda
 
-## Проверка \\(\LaTeX\\)
+## Проверка $ LaTeX $
 \\(y=x^2\\)
 
 \\( y = \sin x \\)
@@ -237,3 +243,5 @@ $$ \left( {\begin{array}{lllllllllllllll}2&\vline& 3&\vline& 4\\\hline8&\vline& 
 \\( b \ge a \\)
 
 \\(\ln \left( {{{\rm arc}} tgx} \right) + C\\)
+
+$$ 5^7 2_6 $$
