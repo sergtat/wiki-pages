@@ -26,7 +26,7 @@ body{
   text-align:justify;
 }
 img{width:100%;}
-#content{padding:0 1em;}
+#content{padding:1em;}
 pre,code{font:1em 'Courier',monospace;}
 pre{
   background-color:#5a4636;
