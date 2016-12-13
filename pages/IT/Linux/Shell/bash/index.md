@@ -19,6 +19,7 @@
 [Zsh & Bash startup files](/IT/Linux/Shell/bash/Zsh & Bash startup files.md)  
 [Арифметические операторы](/IT/Linux/Shell/bash/Арифметические операторы.md)  
 [Битовые операторы](/IT/Linux/Shell/bash/Битовые операторы.md)  
+[Большая поваренная книга BASH](/IT/Linux/Shell/bash/Большая поваренная книга BASH.md)  
 [Ветвления](/IT/Linux/Shell/bash/Ветвления.md)  
 [Использование массивов](/IT/Linux/Shell/bash/Использование массивов.md)  
 [Логические операторы](/IT/Linux/Shell/bash/Логические операторы.md)  
