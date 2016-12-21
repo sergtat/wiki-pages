@@ -22,7 +22,7 @@
 
 Специальный режим, в котором текст отображается по словам с большой скоростью. Необходим тогда, когда нужно за очень короткое время ознакомиться с большим количеством информации.
 
-![Как переехать из Pocket в Instapaper и зачем это делать]( ~/repo/sites/wiki/public/images/Webd/pocketToInstapaper_01.png 'Как переехать из Pocket в Instapaper и зачем это делать')
+![Как переехать из Pocket в Instapaper и зачем это делать](/images/Webd/pocketToInstapaper_01.png 'Как переехать из Pocket в Instapaper и зачем это делать')
 
 ### 5. Отправка статей в Kindle
 
@@ -34,22 +34,22 @@
 
 Зайдите в свой аккаунт на сайте Pocket. Щёлкните по аватарке и выберите в выпадающем меню пункт «Настройки».
 
-![Как переехать из Pocket в Instapaper и зачем это делать]( ~/repo/sites/wiki/public/images/Webd/pocketToInstapaper_02.png 'Как переехать из Pocket в Instapaper и зачем это делать')
+![Как переехать из Pocket в Instapaper и зачем это делать](/images/Webd/pocketToInstapaper_02.png 'Как переехать из Pocket в Instapaper и зачем это делать')
 
 На левой панели щёлкните по пункту «Экспорт».
 
 На следующей странице нажмите на ссылку «Экспорт в HTML-файл». На ваш компьютер будет загружен файл, содержащий полный список сохранённых вами статей.
 
-![Как переехать из Pocket в Instapaper и зачем это делать]( ~/repo/sites/wiki/public/images/Webd/pocketToInstapaper_03.png 'Как переехать из Pocket в Instapaper и зачем это делать')
+![Как переехать из Pocket в Instapaper и зачем это делать](/images/Webd/pocketToInstapaper_03.png 'Как переехать из Pocket в Instapaper и зачем это делать')
 
 Теперь необходимо переместиться в свой аккаунт в Instapaper.
 
 Здесь тоже зайдите в настройки и прокрутите страницу до самого низа. В разделе Import вам необходимо нажать на ссылку Import from Pocket.
 
-![Как переехать из Pocket в Instapaper и зачем это делать]( ~/repo/sites/wiki/public/images/Webd/pocketToInstapaper_04.png 'Как переехать из Pocket в Instapaper и зачем это делать')
+![Как переехать из Pocket в Instapaper и зачем это делать](/images/Webd/pocketToInstapaper_04.png 'Как переехать из Pocket в Instapaper и зачем это делать')
 
 После этого на главной странице Instapaper появится сообщение о начале импорта вашего списка. Продолжительность импорта зависит от количества статей и может занять от нескольких минут до нескольких часов.
 
-![Как переехать из Pocket в Instapaper и зачем это делать]( ~/repo/sites/wiki/public/images/Webd/pocketToInstapaper_05.png 'Как переехать из Pocket в Instapaper и зачем это делать')
+![Как переехать из Pocket в Instapaper и зачем это делать](/images/Webd/pocketToInstapaper_05.png 'Как переехать из Pocket в Instapaper и зачем это делать')
 
 **Источник**: https://lifehacker.ru/
