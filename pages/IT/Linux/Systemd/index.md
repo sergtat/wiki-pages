@@ -17,3 +17,4 @@
 ## Статьи:
 [Инструменты systemd](/IT/Linux/Systemd/Инструменты systemd.md)  
 [Переходим на systemd](/IT/Linux/Systemd/Переходим на systemd.md)  
+[Удаленное логирование в journald](/IT/Linux/Systemd/Удаленное логирование в journald.md)  
