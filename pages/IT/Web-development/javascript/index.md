@@ -15,6 +15,7 @@
 
 
 ## Статьи:
+[ES6. Хитрости, лучшие практики и примеры](/IT/Web-development/javascript/ES6. Хитрости, лучшие практики и примеры.md)  
 [JavaScript для профессиональных веб-разработчиков. Оглавление](/IT/Web-development/javascript/JavaScript для профессиональных веб-разработчиков. Оглавление.md)  
 [javascript. полезные функции](/IT/Web-development/javascript/javascript. полезные функции.md)  
 [Как заставить юзера включить JavaScript](/IT/Web-development/javascript/Как заставить юзера включить JavaScript.md)  

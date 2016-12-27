@@ -8,7 +8,7 @@ I can see whomever I choose.
 I can eat my dinner in a fancy restaurant,  
 But nothing -  
 I said nothing can take away these blues,  
-`Cause nothing compares,  
+Cause nothing compares,  
 Nothing compares to you.  
   
 It's been so lonely without you here,  
@@ -22,7 +22,7 @@ Guess what he told me?
 He said «Girl, you better have fun,  
 No matter what you do».  
 But he's a fool!  
-`Cause nothing compares,  
+Cause nothing compares,  
 Nothing compares to you.  
   
 All the flowers that you planted, mama  
