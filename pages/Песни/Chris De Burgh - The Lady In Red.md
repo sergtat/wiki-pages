@@ -90,38 +90,38 @@ The lady in red
 
         B                       Ebmaj7               Fadd9
   I've never seen you looking so lovely as you did tonight,
-        D7            D7/F# Gm           F Eb	 F
+        D7            D7/F# Gm           F Eb  F
   I've never seen you shine so bright, m-m-m...
         B                    Ebmaj7                    Fadd9
   I've never seen so many men ask you if you wanted to dance,
-           D7           D7/F#     Gm          B7/F   Ebmaj7	
+           D7           D7/F#     Gm          B7/F   Ebmaj7
   They're looking for a little romance, given half a chance,
-             Cm7					
+             Cm7
   And I have never seen that dress you're wearing,
-          F7                         F#dim7      Gm 			
+          F7                         F#dim7      Gm
   Or the highlights in your hair that catch your eyes,
                 F
   I have been blind;
 
 Refrain:
           F/Eb     B   Dm7 Ebmaj7
-  	The lady in red
+    The lady in red
           F  F#dim7       Gm    F        Gm
 Is dan--cing  with  me, cheek to cheek,
                      Cm7   F7                  Bmaj7
-  	There's nobody here,    it's just you and me,
+    There's nobody here,    it's just you and me,
                         Ab6/B
-  	It's where I wanna be,
-	    B7      Ebmaj7  D7/F#       D7           Gm   F
-  	But I hardly know         this beauty by my side,
- C7/E               Cm7  F                     B	
-  	I'll never forget    the way you look tonight;
+    It's where I wanna be,
+      B7      Ebmaj7  D7/F#       D7           Gm   F
+    But I hardly know         this beauty by my side,
+ C7/E               Cm7  F                     B
+    I'll never forget    the way you look tonight;
 
 /B Bmaj7 Ebmaj7 F    B Bmaj7 Ebmaj7 F/
 
         B                       Ebmaj7                Fadd9
   I've never seen you looking so gorgeous as you did tonight,
-        D7            D7/F# Gm           F        Eb	    F
+        D7            D7/F# Gm           F        Eb      F
   I've never seen you shine so bright, you were amazing,
         B                       Ebmaj7                 Fadd9
   I've never seen so many people wanna be there by your side,
@@ -136,7 +136,7 @@ Refrain:--_--_--
 
    I                       I                       I
 e|-x-|---|---|---| Ab6/B   e|---|-x-|---|---| F#dim7 e|-x-|---|---|---| F/Eb
-H|-x-|---|---|---|	   H|---|-x-|---|-x-|        H|-x-|---|---|---|
+H|-x-|---|---|---|     H|---|-x-|---|-x-|        H|-x-|---|---|---|
 G|-x-|---|---|---|         G|---|-x-|---|---|        G|---|-x-|---|---|
 D|-x-|---|---|---|         D|---|-x-|---|-x-|        D|-x-|---|---|---|
 A|-x-|---|---|---|         A|---|-x-|-x-|---|        X|---|---|---|---|
