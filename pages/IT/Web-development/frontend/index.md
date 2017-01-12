@@ -11,10 +11,11 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-##### IT/Web-development
+##### IT/Web-development/frontend
 
 ## Подразделы:
-[**Article**](/IT/Web-development/Article/index.md)  
-[**Web-servers**](/IT/Web-development/Web-servers/index.md)  
-[**frontend**](/IT/Web-development/frontend/index.md)  
+[**css**](/IT/Web-development/frontend/css/index.md)  
+[**frameworks**](/IT/Web-development/frontend/frameworks/index.md)  
+[**html**](/IT/Web-development/frontend/html/index.md)  
+[**javascript**](/IT/Web-development/frontend/javascript/index.md)  
 
