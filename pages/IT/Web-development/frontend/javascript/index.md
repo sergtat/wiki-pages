@@ -21,3 +21,4 @@
 [Как заставить юзера включить JavaScript](/IT/Web-development/frontend/javascript/Как заставить юзера включить JavaScript.md)  
 [Лучшие инструменты для JavaScript-разработчика](/IT/Web-development/frontend/javascript/Лучшие инструменты для JavaScript-разработчика.md)  
 [Проверка доли пользователей с блокировщиком рекламы](/IT/Web-development/frontend/javascript/Проверка доли пользователей с блокировщиком рекламы.md)  
+[Что и как в ES6: хитрости, лучшие практики и примеры](/IT/Web-development/frontend/javascript/Что и как в ES6: хитрости, лучшие практики и примеры.md)  
