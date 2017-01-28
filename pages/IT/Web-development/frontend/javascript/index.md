@@ -17,6 +17,8 @@
 ## Статьи:
 [ES6. Хитрости, лучшие практики и примеры](/IT/Web-development/frontend/javascript/ES6. Хитрости, лучшие практики и примеры.md)  
 [JavaScript для профессиональных веб-разработчиков. Оглавление](/IT/Web-development/frontend/javascript/JavaScript для профессиональных веб-разработчиков. Оглавление.md)  
+[JavaScript модули. Часть 1. Руководство для начинающих](/IT/Web-development/frontend/javascript/JavaScript модули. Часть 1. Руководство для начинающих.md)  
+[JavaScript модули. Часть 2. Сборка модулей](/IT/Web-development/frontend/javascript/JavaScript модули. Часть 2. Сборка модулей.md)  
 [javascript. полезные функции](/IT/Web-development/frontend/javascript/javascript. полезные функции.md)  
 [Как заставить юзера включить JavaScript](/IT/Web-development/frontend/javascript/Как заставить юзера включить JavaScript.md)  
 [Лучшие инструменты для JavaScript-разработчика](/IT/Web-development/frontend/javascript/Лучшие инструменты для JavaScript-разработчика.md)  
