@@ -16,9 +16,11 @@
 
 ## Статьи:
 [Vue.js 2: Webpack и vue-файлы с разными типами содержимого](/IT/Web-development/frontend/frameworks/Vue.js 2: Webpack и vue-файлы с разными типами содержимого.md)  
-[Vue.js 2: как воспользоваться jquery-плагинами](/IT/Web-development/frontend/frameworks/Vue.js 2: как воспользоваться jquery-плагинами.md)  
-[Vue.js 2: как добавить маски на поля с inputmask без jQuery](/IT/Web-development/frontend/frameworks/Vue.js 2: как добавить маски на поля с inputmask без jQuery.md)  
-[Vue.js 2: как использовать компоненты](/IT/Web-development/frontend/frameworks/Vue.js 2: как использовать компоненты.md)  
-[Vue.js 2: передача данных между компонентами](/IT/Web-development/frontend/frameworks/Vue.js 2: передача данных между компонентами.md)  
-[Vue.js 2: сборник мелких советов](/IT/Web-development/frontend/frameworks/Vue.js 2: сборник мелких советов.md)  
-[Vue.js 2: сохранение данных с задержкой](/IT/Web-development/frontend/frameworks/Vue.js 2: сохранение данных с задержкой.md)  
+[Vue.js 2: Как воспользоваться jquery-плагинами](/IT/Web-development/frontend/frameworks/Vue.js 2: Как воспользоваться jquery-плагинами.md)  
+[Vue.js 2: Как добавить маски на поля с inputmask без jQuery](/IT/Web-development/frontend/frameworks/Vue.js 2: Как добавить маски на поля с inputmask без jQuery.md)  
+[Vue.js 2: Как использовать компоненты](/IT/Web-development/frontend/frameworks/Vue.js 2: Как использовать компоненты.md)  
+[Vue.js 2: Передача данных между компонентами](/IT/Web-development/frontend/frameworks/Vue.js 2: Передача данных между компонентами.md)  
+[Vue.js 2: Работа с шаблонами](/IT/Web-development/frontend/frameworks/Vue.js 2: Работа с шаблонами.md)  
+[Vue.js 2: Сборник мелких советов](/IT/Web-development/frontend/frameworks/Vue.js 2: Сборник мелких советов.md)  
+[Vue.js 2: Сохранение данных с задержкой](/IT/Web-development/frontend/frameworks/Vue.js 2: Сохранение данных с задержкой.md)  
+[Начинаем работать с Vue.js](/IT/Web-development/frontend/frameworks/Начинаем работать с Vue.js.md)  
