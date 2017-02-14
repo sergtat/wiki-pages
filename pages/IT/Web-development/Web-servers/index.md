@@ -19,6 +19,6 @@
 
 ## Статьи:
 [9,5 правил ведения безопасного IT-бизнеса в России](/IT/Web-development/Web-servers/9,5 правил ведения безопасного IT-бизнеса в России.md)  
-[htaccess-файлы. Подробное руководство](/IT/Web-development/Web-servers/htaccess-файлы. Подробное руководство.md)  
 [Web-server from command line](/IT/Web-development/Web-servers/Web-server from command line.md)  
+[htaccess-файлы. Подробное руководство](/IT/Web-development/Web-servers/htaccess-файлы. Подробное руководство.md)  
 [Создание сертификата SSL](/IT/Web-development/Web-servers/Создание сертификата SSL.md)  
