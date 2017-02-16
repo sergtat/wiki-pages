@@ -15,13 +15,13 @@
 
 
 ## Статьи:
-[atime mtime ctime](/IT/Linux/FileSystems/atime mtime ctime.md)  
+[Atime, mtime ctime](/IT/Linux/FileSystems/Atime, mtime ctime.md)  
 [Aufs и каскадное монтирование](/IT/Linux/FileSystems/Aufs и каскадное монтирование.md)  
-[fsck. Краткий обзор возможностей](/IT/Linux/FileSystems/fsck. Краткий обзор возможностей.md)  
-[lsof - примеры использования](/IT/Linux/FileSystems/lsof - примеры использования.md)  
-[samba](/IT/Linux/FileSystems/samba.md)  
+[FSCK. Краткий обзор возможностей](/IT/Linux/FileSystems/FSCK. Краткий обзор возможностей.md)  
+[LSOF - примеры использования](/IT/Linux/FileSystems/LSOF - примеры использования.md)  
+[Samba](/IT/Linux/FileSystems/Samba.md)  
+[SSHFS. Удобный доступ к файлам на удаленных хостах](/IT/Linux/FileSystems/SSHFS. Удобный доступ к файлам на удаленных хостах.md)  
 [TIME_WAIT](/IT/Linux/FileSystems/TIME_WAIT.md)  
-[Udisks](/IT/Linux/FileSystems/Udisks.md)  
 [Восстановление SD-карты](/IT/Linux/FileSystems/Восстановление SD-карты.md)  
 [Добавляем swap-file](/IT/Linux/FileSystems/Добавляем swap-file.md)  
 [Жесткие диски: диагностика, настройка](/IT/Linux/FileSystems/Жесткие диски: диагностика, настройка.md)  
