@@ -15,8 +15,9 @@
 
 
 ## Статьи:
+[Afuse automount](/IT/Linux/FileSystems/Afuse automount.md)  
 [Atime, mtime ctime](/IT/Linux/FileSystems/Atime, mtime ctime.md)  
-[Aufs и каскадное монтирование](/IT/Linux/FileSystems/Aufs и каскадное монтирование.md)  
+[AUFS и каскадное монтирование](/IT/Linux/FileSystems/AUFS и каскадное монтирование.md)  
 [FSCK. Краткий обзор возможностей](/IT/Linux/FileSystems/FSCK. Краткий обзор возможностей.md)  
 [LSOF - примеры использования](/IT/Linux/FileSystems/LSOF - примеры использования.md)  
 [Samba](/IT/Linux/FileSystems/Samba.md)  

@@ -20,5 +20,6 @@
 [Альтернатива для .clearfix](/IT/Web-development/frontend/css/Альтернатива для .clearfix.md)  
 [Знаете ли вы селекторы](/IT/Web-development/frontend/css/Знаете ли вы селекторы.md)  
 [Как использовать медиа запросы CSS3 чтобы создать версию вашего сайта для мобильных устройств](/IT/Web-development/frontend/css/Как использовать медиа запросы CSS3 чтобы создать версию вашего сайта для мобильных устройств.md)  
+[Математика CSS-шлюзов](/IT/Web-development/frontend/css/Математика CSS-шлюзов.md)  
 [Полное руководство по Flexbox](/IT/Web-development/frontend/css/Полное руководство по Flexbox.md)  
 [Рекомендации по оформлению текста на веб-странице](/IT/Web-development/frontend/css/Рекомендации по оформлению текста на веб-странице.md)  

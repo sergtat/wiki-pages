@@ -28,3 +28,4 @@
 [Социальные сети](/IT/Web-development/Article/Социальные сети.md)  
 [Фильтр мата вконтакте](/IT/Web-development/Article/Фильтр мата вконтакте.md)  
 [Чем плохо быть full stack разработчиком](/IT/Web-development/Article/Чем плохо быть full stack разработчиком.md)  
+[Что поправить в верстке перед выпуском в продакшн](/IT/Web-development/Article/Что поправить в верстке перед выпуском в продакшн.md)  
