@@ -21,6 +21,7 @@
 [Горячие клавиши YouTube](/IT/Web-development/Article/Горячие клавиши YouTube.md)  
 [Загрузка видео с YouTube только при клике](/IT/Web-development/Article/Загрузка видео с YouTube только при клике.md)  
 [Залог успеха социальных сетей: друзья или контент](/IT/Web-development/Article/Залог успеха социальных сетей: друзья или контент.md)  
+[Как конструировать слова. От автора, который ненавидит читать](/IT/Web-development/Article/Как конструировать слова. От автора, который ненавидит читать.md)  
 [Как переехать из Pocket в Instapaper и зачем это делать](/IT/Web-development/Article/Как переехать из Pocket в Instapaper и зачем это делать.md)  
 [Как узнавать о новых видео на любом YouTube-канале через RSS](/IT/Web-development/Article/Как узнавать о новых видео на любом YouTube-канале через RSS.md)  
 [Ограничения «В Контакте»](/IT/Web-development/Article/Ограничения «В Контакте».md)  
