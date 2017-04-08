@@ -64,6 +64,22 @@ table td {
 table tr:nth-child(2n) {
   background: #ffe4b6;
 }
+.markdown-body blockquote {
+  color: #666;
+  font-size: 16px;
+  margin: 10px 0 10px 56px;
+  padding: 0 0 0 43px;
+  background: url(/img/left-shadow.png) no-repeat left;
+  text-align: left;
+  font-family: 'PT Serif', sans-serif;
+}
+blockquote {
+  display: block;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 40px;
+  -webkit-margin-end: 40px;
+}
 i.checked{
   /* display:block; */
   background:url(/img/galka.png) no-repeat;
