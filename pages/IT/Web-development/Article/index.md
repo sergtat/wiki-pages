@@ -25,6 +25,7 @@
 [Как переехать из Pocket в Instapaper и зачем это делать](/IT/Web-development/Article/Как переехать из Pocket в Instapaper и зачем это делать.md)  
 [Как узнавать о новых видео на любом YouTube-канале через RSS](/IT/Web-development/Article/Как узнавать о новых видео на любом YouTube-канале через RSS.md)  
 [Ограничения «В Контакте»](/IT/Web-development/Article/Ограничения «В Контакте».md)  
+[О чём должен помнить веб-дизайнер](/IT/Web-development/Article/О чём должен помнить веб-дизайнер.md)  
 [Систематизация публикаций в web](/IT/Web-development/Article/Систематизация публикаций в web.md)  
 [Социальные сети](/IT/Web-development/Article/Социальные сети.md)  
 [Фильтр мата вконтакте](/IT/Web-development/Article/Фильтр мата вконтакте.md)  
