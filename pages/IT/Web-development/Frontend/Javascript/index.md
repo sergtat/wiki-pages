@@ -5,7 +5,7 @@
 [**Автомобиль**](/Автомобиль/index.md)
 [**Домоводство**](/Домоводство/index.md)
 [**Кулинария**](/Кулинария/index.md)
-[**Песни**](/Песни/index.md)
+[**Музыка**](/Музыка/index.md)
 [**Поместье**](/Поместье/index.md)
 [**Разное**](/Разное/index.md)
 [**Юмор**](/Юмор/index.md)
@@ -16,6 +16,7 @@
 
 ## Статьи:
 [ES6. Хитрости, лучшие практики и примеры](/IT/Web-development/Frontend/Javascript/ES6. Хитрости, лучшие практики и примеры.md)  
+[JavaScript tips](/IT/Web-development/Frontend/Javascript/JavaScript tips.md)  
 [JavaScript для профессиональных веб-разработчиков. Оглавление](/IT/Web-development/Frontend/Javascript/JavaScript для профессиональных веб-разработчиков. Оглавление.md)  
 [JavaScript модули. Часть 1. Руководство для начинающих](/IT/Web-development/Frontend/Javascript/JavaScript модули. Часть 1. Руководство для начинающих.md)  
 [JavaScript модули. Часть 2. Сборка модулей](/IT/Web-development/Frontend/Javascript/JavaScript модули. Часть 2. Сборка модулей.md)  

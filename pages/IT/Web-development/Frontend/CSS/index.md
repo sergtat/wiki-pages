@@ -5,7 +5,7 @@
 [**Автомобиль**](/Автомобиль/index.md)
 [**Домоводство**](/Домоводство/index.md)
 [**Кулинария**](/Кулинария/index.md)
-[**Песни**](/Песни/index.md)
+[**Музыка**](/Музыка/index.md)
 [**Поместье**](/Поместье/index.md)
 [**Разное**](/Разное/index.md)
 [**Юмор**](/Юмор/index.md)
@@ -15,6 +15,7 @@
 
 
 ## Статьи:
+[CSS tips](/IT/Web-development/Frontend/CSS/CSS tips.md)  
 [CSS печатной версии страницы](/IT/Web-development/Frontend/CSS/CSS печатной версии страницы.md)  
 [CSS - стили для печати](/IT/Web-development/Frontend/CSS/CSS - стили для печати.md)  
 [Альтернатива для .clearfix](/IT/Web-development/Frontend/CSS/Альтернатива для .clearfix.md)  
