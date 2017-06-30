@@ -2,6 +2,7 @@
 [**⇑**](/index.md)
 
 [**IT**](/IT/index.md)
+[**My**](/My/index.md)
 [**Автомобиль**](/Автомобиль/index.md)
 [**Домоводство**](/Домоводство/index.md)
 [**Кулинария**](/Кулинария/index.md)
@@ -22,6 +23,7 @@
 [netcat. Полезные Unix утилиты](/IT/Linux/Net/netcat. Полезные Unix утилиты.md)  
 [netcat. Примеры использования](/IT/Linux/Net/netcat. Примеры использования.md)  
 [netstat. Примеры использования](/IT/Linux/Net/netstat. Примеры использования.md)  
+[ssh магия](/IT/Linux/Net/ssh магия.md)  
 [ssh. Хитрости](/IT/Linux/Net/ssh. Хитрости.md)  
 [ss. Мониторинг сетевых соединений](/IT/Linux/Net/ss. Мониторинг сетевых соединений.md)  
 [ss. Примеры использования](/IT/Linux/Net/ss. Примеры использования.md)  

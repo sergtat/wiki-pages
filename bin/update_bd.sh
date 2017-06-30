@@ -6,7 +6,7 @@ RD=(`ls -d */ | tr -d /`)
 RL=${#RD[@]}
 
 scanDirRecursive() {
-  local x;
+  local e;
   for e in "$1"/*; do
     if [ -d "$e" -a ! -L "$e" ]
     then
@@ -21,7 +21,7 @@ scanDirRecursive() {
       echo "" >> "$f"
       echo -e "# NoName Wiki" >> "$f"
       echo -e "##### ${e##*pages/}\n" >> "$f"
-      
+
       if ls -d "${e}"/*/ > /dev/null 2>&1
       then
         echo -e "## Подразделы:" >> "$f"
@@ -64,7 +64,7 @@ scanDirRecursive "$dir"
 
 echo -e "# NoName Wiki" > index.md
 echo -e "## Разделы:" >> index.md
-for ((i=0; i<${RL}; i++))  ; do
+for ((i=0; i<${RL}; i++)); do
   echo -e "[**${RD[$i]}**](/${RD[$i]}/index.md)  " >> index.md
 done
 
