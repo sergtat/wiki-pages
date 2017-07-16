@@ -19,6 +19,7 @@
 [BEM с человеческим лицом](/IT/Web-development/Article/BEM с человеческим лицом.md)  
 [FAQ по «Одноклассникам»](/IT/Web-development/Article/FAQ по «Одноклассникам».md)  
 [Frontend-разработчики должны быть в теме всего](/IT/Web-development/Article/Frontend-разработчики должны быть в теме всего.md)  
+[YouTube code](/IT/Web-development/Article/YouTube code.md)  
 [Безопасность сайта по его заголовкам](/IT/Web-development/Article/Безопасность сайта по его заголовкам.md)  
 [Горячие клавиши YouTube](/IT/Web-development/Article/Горячие клавиши YouTube.md)  
 [Загрузка видео с YouTube только при клике](/IT/Web-development/Article/Загрузка видео с YouTube только при клике.md)  
