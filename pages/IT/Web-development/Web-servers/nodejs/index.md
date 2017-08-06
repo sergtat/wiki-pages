@@ -16,6 +16,7 @@
 
 
 ## Статьи:
+[How to Write A Unit Test for Vue.js](/IT/Web-development/Web-servers/nodejs/How to Write A Unit Test for Vue.js.md)  
 [Node.js вместе c модулем socket.io](/IT/Web-development/Web-servers/nodejs/Node.js вместе c модулем socket.io.md)  
 [Node.js работа с MySQL](/IT/Web-development/Web-servers/nodejs/Node.js работа с MySQL.md)  
 [PM2. Запускаем node.js, io.js](/IT/Web-development/Web-servers/nodejs/PM2. Запускаем node.js, io.js.md)  
