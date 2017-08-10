@@ -27,6 +27,7 @@
 [Инфостиль: заповеди сильного редактора](/IT/Web-development/Article/Инфостиль: заповеди сильного редактора.md)  
 [Как зарабатывать деньги в интернете](/IT/Web-development/Article/Как зарабатывать деньги в интернете.md)  
 [Как конструировать слова. От автора, который ненавидит читать](/IT/Web-development/Article/Как конструировать слова. От автора, который ненавидит читать.md)  
+[Как называть переменные](/IT/Web-development/Article/Как называть переменные.md)  
 [Как переехать из Pocket в Instapaper и зачем это делать](/IT/Web-development/Article/Как переехать из Pocket в Instapaper и зачем это делать.md)  
 [Как скачать любое видео с YouTube, Facebook, Instagram и других сервисов](/IT/Web-development/Article/Как скачать любое видео с YouTube, Facebook, Instagram и других сервисов.md)  
 [Как узнавать о новых видео на любом YouTube-канале через RSS](/IT/Web-development/Article/Как узнавать о новых видео на любом YouTube-канале через RSS.md)  
