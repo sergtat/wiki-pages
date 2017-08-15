@@ -18,4 +18,5 @@
 ## Статьи:
 [Компьютерная гарнитура с микрофоном Perfeo CHAT](/My/Компьютерная гарнитура с микрофоном Perfeo CHAT.md)  
 [Сувид термостат Dream Modern SVDM-01 от RawMID](/My/Сувид термостат Dream Modern SVDM-01 от RawMID.md)  
+[Таймер кухонный цифровой](/My/Таймер кухонный цифровой.md)  
 [Триммер Remington PG6045](/My/Триммер Remington PG6045.md)  
