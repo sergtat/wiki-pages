@@ -27,8 +27,8 @@ scanDirRecursive() {
         echo -e "## Подразделы:" >> "$f"
       fi
 
-      for d in "$e"/*; do
-        if [ -d "$d" -a ! -L "$d" ]
+      for d in "${e}"/*; do
+        if [ -d "$d" ] || [ -L "$d" ]
         then
           echo "[**${d##${e}/}**](${d##*pages}/index.md)  " >> "$f"
         fi

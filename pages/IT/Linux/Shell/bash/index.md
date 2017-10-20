@@ -14,6 +14,7 @@
 # NoName Wiki
 ##### IT/Linux/Shell/bash
 
+[**Zsh & Bash startup files.md**](/IT/Linux/Shell/bash/Zsh & Bash startup files.md/index.md)  
 
 ## Статьи:
 [5 советов для работы с историей в Bash](/IT/Linux/Shell/bash/5 советов для работы с историей в Bash.md)  

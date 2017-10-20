@@ -22,4 +22,5 @@
 [Xposed](/IT/Android/Tuning/Xposed.md)  
 [Как я настраивал смартфон](/IT/Android/Tuning/Как я настраивал смартфон.md)  
 [Список сайтов с доступными для скачки файлами hosts](/IT/Android/Tuning/Список сайтов с доступными для скачки файлами hosts.md)  
+[Твики Build.prop](/IT/Android/Tuning/Твики Build.prop.md)  
 [Удаление ненужных сервисов Google Play](/IT/Android/Tuning/Удаление ненужных сервисов Google Play.md)  
