@@ -20,6 +20,8 @@
 [A-Ha. Take on me](/Музыка/Песни/A-Ha. Take on me.md)  
 [Chris De Burgh - The Lady In Red](/Музыка/Песни/Chris De Burgh - The Lady In Red.md)  
 [Elton John - Sorry Seems To Be The Hardest Word](/Музыка/Песни/Elton John - Sorry Seems To Be The Hardest Word.md)  
+[IOWA - Улыбайся](/Музыка/Песни/IOWA - Улыбайся.md)  
+[Loboda - Твои глаза](/Музыка/Песни/Loboda - Твои глаза.md)  
 [Sinead O'Connor - Nothing Compares to You](/Музыка/Песни/Sinead O'Connor - Nothing Compares to You.md)  
 [The Beatles - Come Together](/Музыка/Песни/The Beatles - Come Together.md)  
 [Агутин Леонид - Быть частью твоего](/Музыка/Песни/Агутин Леонид - Быть частью твоего.md)  
@@ -67,3 +69,4 @@
 [Уральские пельмени - Про ларёк](/Музыка/Песни/Уральские пельмени - Про ларёк.md)  
 [Черные подковы](/Музыка/Песни/Черные подковы.md)  
 [Чиж и Ко - Она не вышла замуж](/Музыка/Песни/Чиж и Ко - Она не вышла замуж.md)  
+[Эдуард Хиль - Потолок ледяной](/Музыка/Песни/Эдуард Хиль - Потолок ледяной.md)  

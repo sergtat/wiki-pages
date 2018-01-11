@@ -28,6 +28,7 @@
 [**Keyboard**](/IT/Linux/Keyboard/index.md)  
 [**Logging**](/IT/Linux/Logging/index.md)  
 [**Mail**](/IT/Linux/Mail/index.md)  
+[**Memmory**](/IT/Linux/Memmory/index.md)  
 [**Net**](/IT/Linux/Net/index.md)  
 [**Router**](/IT/Linux/Router/index.md)  
 [**Security**](/IT/Linux/Security/index.md)  
