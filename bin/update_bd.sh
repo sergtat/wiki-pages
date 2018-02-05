@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/repo/sites/wiki/public/pages
+cd ~/repo/wiki-engine/public/pages
 
 RD=(`ls -d */ | tr -d /`)
 RL=${#RD[@]}

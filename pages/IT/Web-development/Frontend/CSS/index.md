@@ -16,9 +16,9 @@
 
 
 ## Статьи:
+[CSS - стили для печати](/IT/Web-development/Frontend/CSS/CSS - стили для печати.md)  
 [CSS tips](/IT/Web-development/Frontend/CSS/CSS tips.md)  
 [CSS печатной версии страницы](/IT/Web-development/Frontend/CSS/CSS печатной версии страницы.md)  
-[CSS - стили для печати](/IT/Web-development/Frontend/CSS/CSS - стили для печати.md)  
 [Альтернатива для .clearfix](/IT/Web-development/Frontend/CSS/Альтернатива для .clearfix.md)  
 [Знаете ли вы селекторы](/IT/Web-development/Frontend/CSS/Знаете ли вы селекторы.md)  
 [Как использовать медиа запросы CSS3 чтобы создать версию вашего сайта для мобильных устройств](/IT/Web-development/Frontend/CSS/Как использовать медиа запросы CSS3 чтобы создать версию вашего сайта для мобильных устройств.md)  

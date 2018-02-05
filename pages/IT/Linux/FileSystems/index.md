@@ -16,13 +16,13 @@
 
 
 ## Статьи:
+[AUFS и каскадное монтирование](/IT/Linux/FileSystems/AUFS и каскадное монтирование.md)  
 [Afuse automount](/IT/Linux/FileSystems/Afuse automount.md)  
 [Atime, mtime ctime](/IT/Linux/FileSystems/Atime, mtime ctime.md)  
-[AUFS и каскадное монтирование](/IT/Linux/FileSystems/AUFS и каскадное монтирование.md)  
 [FSCK. Краткий обзор возможностей](/IT/Linux/FileSystems/FSCK. Краткий обзор возможностей.md)  
 [LSOF - примеры использования](/IT/Linux/FileSystems/LSOF - примеры использования.md)  
-[Samba](/IT/Linux/FileSystems/Samba.md)  
 [SSHFS. Удобный доступ к файлам на удаленных хостах](/IT/Linux/FileSystems/SSHFS. Удобный доступ к файлам на удаленных хостах.md)  
+[Samba](/IT/Linux/FileSystems/Samba.md)  
 [TIME_WAIT](/IT/Linux/FileSystems/TIME_WAIT.md)  
 [Восстановление SD-карты](/IT/Linux/FileSystems/Восстановление SD-карты.md)  
 [Добавляем swap-file](/IT/Linux/FileSystems/Добавляем swap-file.md)  
