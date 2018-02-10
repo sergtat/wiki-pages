@@ -16,4 +16,5 @@
 
 
 ## Статьи:
+[Nginx и https. Получаем класс А+](/IT/Security/Nginx и https. Получаем класс А+.md)  
 [Полное руководство по переходу с HTTP на HTTPS](/IT/Security/Полное руководство по переходу с HTTP на HTTPS.md)  
