@@ -12,16 +12,8 @@
 [**Юмор**](/Юмор/index.md)
 
 # NoName Wiki
-##### IT
+##### IT/Security
 
-## Подразделы:
-[**Android**](/IT/Android/index.md)  
-[**Databases**](/IT/Databases/index.md)  
-[**Hardware**](/IT/Hardware/index.md)  
-[**Internet**](/IT/Internet/index.md)  
-[**Linux**](/IT/Linux/index.md)  
-[**Security**](/IT/Security/index.md)  
-[**Software**](/IT/Software/index.md)  
-[**Web-development**](/IT/Web-development/index.md)  
-[**Windows**](/IT/Windows/index.md)  
 
+## Статьи:
+[Полное руководство по переходу с HTTP на HTTPS](/IT/Security/Полное руководство по переходу с HTTP на HTTPS.md)  
