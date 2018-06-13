@@ -481,4 +481,15 @@ _Формат файла юнита похож на `.desktop` (и, следов
 
 https://www.youtube.com/playlist?list=PLqqACcIaake6YIicCFFadRAk-9N5Wamd2
 
+## Ссылки.
+
+- [Suse Wiki:systemd](https://ru.opensuse.org/SDB:Systemd)
+- [Systemd за пять минут](https://habrahabr.ru/company/southbridge/blog/255845/)
+- [Шпаргалка systemd](http://mppks.ru/ubuntu/shpargalka-systemd/)
+- [Шпаргалка по работе с journalctl](https://sysadmin.pm/journald-journalctl/)
+- [Alt Wiki:Journald](https://www.altlinux.org/Journald)
+- [Alt Wiki:Systemd](https://www.altlinux.org/Systemd)
+- [Alt Wiki:Улучшаем Systemd](https://www.altlinux.org/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:HihinRuslan/Systemd)
+- [How can I send a message to the systemd journal from the command line](https://serverfault.com/questions/573946/how-can-i-send-a-message-to-the-systemd-journal-from-the-command-line)
+
 **Источник**: https://github.com/paulcarroty/systemd-In-Action

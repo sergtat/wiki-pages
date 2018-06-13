@@ -15,17 +15,17 @@ r(function(){
     } else {
         var videos = document.getElementsByClassName("youtube");
     }
- 
+
     var nb_videos = videos.length;
     for (var i=0; i<nb_videos; i++) {
         // Находим постер для видео, зная ID нашего видео
         videos[i].style.backgroundImage = 'url(http://i.ytimg.com/vi/' + videos[i].id + '/sddefault.jpg)';
- 
+
         // Размещаем над постером кнопку Play, чтобы создать эффект плеера
         var play = document.createElement("div");
         play.setAttribute("class","play");
         videos[i].appendChild(play);
- 
+
         videos[i].onclick = function() {
             // Создаем iFrame и сразу начинаем проигрывать видео, т.е. атрибут autoplay у видео в значении 1
             var iframe = document.createElement("iframe");
@@ -34,11 +34,11 @@ r(function(){
             iframe.setAttribute("src",iframe_url);
             iframe.setAttribute("frameborder",'0');
             iframe.setAttribute("allowfullscreen",'1');
- 
+
             // Высота и ширина iFrame будет как у элемента-родителя
             iframe.style.width  = this.style.width;
             iframe.style.height = this.style.height;
- 
+
             // Заменяем начальное изображение (постер) на iFrame
             this.parentNode.replaceChild(iframe, this);
         }
