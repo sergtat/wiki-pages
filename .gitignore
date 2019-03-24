@@ -1,7 +1,0 @@
-.*
-!.gitignore
-!.gitattributes
-!.keep
-/images/
-/files/
-/tmp/
